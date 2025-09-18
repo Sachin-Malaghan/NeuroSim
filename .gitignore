@@ -23,3 +23,11 @@ x86/
 *.obj
 *.o
 *.out
+
+# Ignore Visual Studio cache
+.vs/
+*.suo
+*.db
+*.vsidx
+*.user
+*.cache
