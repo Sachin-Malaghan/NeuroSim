@@ -38,6 +38,7 @@ NeuroSim is a C++ OpenGL-based 3D rendering and simulation engine. It demonstrat
 2. **Configure dependencies**:
    - Make sure the include and library directories for GLEW, GLFW, GLM, and Assimp are set in your project properties.
    - Link against the 64-bit versions of GLEW and GLFW if building for x64.
+   - If you are using a Visual studio 2022 and please change the build from x64 to x86 then this should not give any glm or gl errors
 3. **Build the solution**.
 
 ## Running
