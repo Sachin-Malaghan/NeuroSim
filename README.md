@@ -7,7 +7,7 @@ NeuroSim is a C++ OpenGL-based 3D rendering and simulation engine. It demonstrat
 - **OpenGL Rendering**: Uses modern OpenGL (via GLEW and GLFW) for 3D graphics.
 - **Lighting System**: Supports directional, point, and spot lights, each with shadow mapping.
 - **Material System**: Easily assign different material properties to objects.
-- **Model Loading**: Loads 3D models using the Assimp library.
+- **Model Loading**: Loads 3D models using the Assimp library. -- Update model loading to load from UI and make it as import and some default models for basic rendering.
 - **Texture Mapping**: Supports multiple textures per model.
 - **Camera Controls**: Fly-through camera with keyboard and mouse input.
 - **Shader Management**: Modular shader class for easy GLSL management.
