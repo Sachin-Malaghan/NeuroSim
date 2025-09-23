@@ -62,5 +62,6 @@ NeuroSim is a C++ OpenGL-based 3D rendering and simulation engine. It demonstrat
 ## License
 
 This project is for educational and demonstration purposes.
+This further will be taken to simulation engine once the physics engine is up
 
 ---
